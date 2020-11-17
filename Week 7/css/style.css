@@ -1,0 +1,26 @@
+body {background-image: url("../image/background.jpg");
+background-size: cover;
+font-family: sans-serif;
+margin: 0}
+
+img{width: 100%;
+  max-width: 250px;
+border-radius: 8px;
+}
+
+header, section, footer {margin: 20px;
+padding: 10px}
+
+header,Footer {background-color: rgb(45,44,44);
+color: white}
+
+section {background-color: white}
+
+header h1 {margin-top: 5px}
+
+.lable {font-weight: bold;}
+
+nav a, footer a {color: white}
+
+h1 {background-image: url("../image/H1.jpg");
+color: white}
